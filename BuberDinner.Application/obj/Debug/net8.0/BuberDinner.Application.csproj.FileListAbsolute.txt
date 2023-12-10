@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.deps.json
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.dll
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.pdb
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.dll
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.CopyComplete
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.dll
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\refint\BuberDinner.Application.dll
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.pdb
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\ref\BuberDinner.Application.dll
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Infrastructure.dll
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb

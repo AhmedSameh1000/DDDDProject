@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BuberDinner.Domain\BuberDinner.Domain.csproj"/>
+    <ProjectReference Include="..\BuberDinner.Infrastructure\BuberDinner.Infrastructure.csproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\Implementations\UserService\"/>
+    <Folder Include="Services\Interfaces\User\"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0"/>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.3"/>
+    <PackageReference Include="MediatR" Version="12.2.0"/>
+    <PackageReference Include="FluentValidation" Version="11.8.1"/>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0"/>
+  </ItemGroup>
+</Project>
