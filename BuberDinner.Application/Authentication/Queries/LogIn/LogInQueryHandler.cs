@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using BuberDinner.Application.Authentication.Common;
 using BuberDinner.Application.Bases;
 using BuberDinner.Application.Services.JWT;
-using BuberDinner.Domain.Models;
+using BuberDinner.Domain.Common.Models;
 using MediatR;
 using Microsoft.AspNetCore.Identity;
 

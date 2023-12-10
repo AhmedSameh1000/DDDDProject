@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 
-namespace BuberDinner.Domain.Models
+namespace BuberDinner.Domain.Common.Models
 {
     public class User : IdentityUser
     {

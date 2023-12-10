@@ -9,3 +9,4 @@ C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Contracts\obj
 C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
 C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
 C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.sourcelink.json

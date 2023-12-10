@@ -1,3 +1,4 @@
+using BuberDinner.Domain.Common.Models;
 using BuberDinner.Domain.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;

@@ -15,3 +15,4 @@ C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Infrastructur
 C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.pdb
 C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\ref\BuberDinner.Infrastructure.dll
+C:\Users\Administrator\Desktop\new_Project\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.sourcelink.json

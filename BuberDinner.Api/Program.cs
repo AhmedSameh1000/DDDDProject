@@ -3,7 +3,7 @@ using BuberDinner.Api.DependcyInjection;
 using BuberDinner.Api.Filters;
 using BuberDinner.Api.MiddleWares;
 using BuberDinner.Application.DependcyInjection;
-using BuberDinner.Domain.Models;
+using BuberDinner.Domain.Common.Models;
 using BuberDinner.Infrastructure.Data;
 using BuberDinner.Infrastructure.DependcyInjection;
 using BuberDinner.Infrastructure.Seeds;

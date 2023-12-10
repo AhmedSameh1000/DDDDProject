@@ -1,7 +1,7 @@
 using BuberDinner.Application.Authentication.Common;
 using BuberDinner.Application.Bases;
 using BuberDinner.Application.Services.JWT;
-using BuberDinner.Domain.Models;
+using BuberDinner.Domain.Common.Models;
 using BuberDinner.Infrastructure.Constants;
 using FluentValidation;
 using MediatR;

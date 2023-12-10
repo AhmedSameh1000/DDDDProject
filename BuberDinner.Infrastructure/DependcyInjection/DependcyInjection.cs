@@ -1,6 +1,6 @@
 using System.Text;
 using BuberDinner.Application.Services.JWT;
-using BuberDinner.Domain.Models;
+using BuberDinner.Domain.Common.Models;
 using BuberDinner.Infrastructure.Data;
 using BuberDinner.Infrastructure.RepositoryPattern.IRepository;
 using BuberDinner.Infrastructure.RepositoryPattern.Repository;
